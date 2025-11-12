@@ -5,10 +5,10 @@ url: "/experiences/"
 summary: "My professional and extracurricular experiences"
 ---
 
-## Experience 1
+## Dr. David Toews Ecology Lab 
 
-**Role/Position** | **Organization**  
-*Duration: Month Year - Month Year*
+**Undergraduate Research Assistant** | **Pennsylvania State University**  
+*Duration: October 2025 - Present*
 
 Describe your experience here. Include what you learned, projects you worked on, and skills you developed.
 
