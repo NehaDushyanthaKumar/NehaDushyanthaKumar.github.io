@@ -5,10 +5,10 @@ url: "/research/"
 summary: "My research experiences and projects"
 ---
 
-## Research Experience 1
+## Sub-Neptune Atmospheres 
 
-**Position Title** | **Institution Name**  
-*Duration: Month Year - Month Year*
+**Undergraduate Research Assistant** | **Pennsylvania State University**  
+*Duration: January 2025 -  Present*
 
 Description of your research experience here. Explain what you worked on, methodologies used, and key findings or contributions.
 
@@ -16,10 +16,10 @@ Description of your research experience here. Explain what you worked on, method
 
 ---
 
-## Research Experience 2
+## Super-Puff Atmopsheres 
 
-**Position Title** | **Institution Name**  
-*Duration: Month Year - Month Year*
+**Undergraduate Research Assistant** | **Pennsylvania State University**  
+*Duration: Januray 2024 - January 2025*
 
 Description of your second research experience. Include details about the project, your role, and outcomes.
 
@@ -27,10 +27,10 @@ Description of your second research experience. Include details about the projec
 
 ---
 
-## Research Experience 3
+## GEMS Collaboration 
 
-**Position Title** | **Institution Name**  
-*Duration: Month Year - Month Year*
+**Collaborator** | **Remote**  
+*Duration: December 2023 - Present*
 
 Add more research experiences as needed. You can include:
 - Key responsibilities
