@@ -10,7 +10,7 @@ summary: "My professional and extracurricular experiences"
 **Undergraduate Research Assistant** | **Pennsylvania State University**  
 *Duration: October 2025 - Present*
 
-Describe your experience here. Include what you learned, projects you worked on, and skills you developed.
+Kirtland Warblers Research. DNA Extraction, PCR Analysis and sex determination to help Anny's research. 
 
 ![Experience Image 1](/images/experience1.jpg)
 
