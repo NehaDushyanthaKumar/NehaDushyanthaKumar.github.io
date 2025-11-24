@@ -19,16 +19,21 @@ Toews Lab: https://davetoews.com/
 
 ---
 
-## Experience 2
+## Exo-MAFT: Multi-Wavelength Atmospheric Feature Tracker for Exoplanets
 
-**Role/Position** | **Organization**  
-*Duration: Month Year - Month Year*
+**Developer** | **Code/Astro 2025**  
+*Duration: July 2025 - Present*
 
-Add details about this experience, including:
-- Your responsibilities
-- Achievements or accomplishments
-- Skills gained
-- Impact of your work
+I developed Exo-MAFT to address a critical gap in exoplanet atmospheric studies. While traditional tools focus on single-wavelength analysis, atmospheric features like molecular absorption lines vary significantly across different wavelengths. Exo-MAFT enables 
+researchers to:
+- Track atmospheric features across multiple wavelength ranges simultaneously
+- Process transmission spectra from various JWST instruments (NIRISS SOSS, NIRSpec, NIRCam, MIRI)
+- Identify correlations across spectra
+- Optimize multi-instrument observation strategies
+
+**Installation:** `pip install exomaft`
+
+[View on GitHub](https://github.com/NehaDushyanthaKumar/Exo-MAFT/)
 
 ![Experience Image 2](/images/experience2.jpg)
 
