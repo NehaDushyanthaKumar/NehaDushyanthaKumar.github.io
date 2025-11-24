@@ -10,11 +10,11 @@ summary: "Get in touch"
 I'd love to hear from you. Feel free to reach out through any of the following channels:
 
 ### Email
-📧 **your.email@example.com**
+📧 **nehadushyanth@gmail.com**
 
 ### Social Media
 - **LinkedIn**: [linkedin.com/in/neha-dushyantha-kumar](https://www.linkedin.com/in/neha-dushyantha-kumar/)
-- **GitHub**: [github.com/yourusername](https://github.com/)
+- **GitHub**: [github.com/NehaDushyanthaKumar](https://github.com/NehaDushyanthaKumar)
 
 ---
 
