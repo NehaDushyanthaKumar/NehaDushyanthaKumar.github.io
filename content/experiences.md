@@ -39,20 +39,4 @@ researchers to:
 
 ---
 
-## Experience 3
-
-**Role/Position** | **Organization**  
-*Duration: Month Year - Month Year*
-
-Continue adding experiences as needed. These can include:
-- Internships
-- Volunteer work
-- Leadership positions
-- Teaching or mentoring roles
-- Clubs and organizations
-
-![Experience Image 3](/images/experience3.jpg)
-
----
-
 *Note: Place your experience images in `/static/images/` folder (e.g., `/static/images/experience1.jpg`)*
