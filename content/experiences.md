@@ -15,8 +15,6 @@ While my current research focuses on atmospheric chemistry, particularly the spe
 Toews Lab: https://davetoews.com/
  
 
-![Experience Image 1](/images/experience1.jpg)
-
 ---
 
 ## Exo-MAFT: Multi-Wavelength Atmospheric Feature Tracker for Exoplanets
@@ -35,8 +33,5 @@ researchers to:
 
 [View on GitHub](https://github.com/NehaDushyanthaKumar/Exo-MAFT/)
 
-![Experience Image 2](/images/experience2.jpg)
 
 ---
-
-*Note: Place your experience images in `/static/images/` folder (e.g., `/static/images/experience1.jpg`)*

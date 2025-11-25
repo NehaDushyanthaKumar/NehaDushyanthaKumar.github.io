@@ -14,8 +14,6 @@ Atmospheric signatures of CO2, CO, CH4, and NH3 lead to false positive identific
 
 Dushyantha Kumar, N., Libby-Roberts, J., Wogan, N., Canas, C., Mahadevan, S., Mukherjee, S. et al. (In Prep). ''Can A Mini-Neptune’s Atmospheric Spectrum Be Mistaken for a Water-world?''
 
-![Research Image 1](/images/research1.jpg)
-
 ---
 
 ## Super-Puff Atmopsheres 
@@ -28,8 +26,6 @@ In this project, I used PICASO atmospheric modeling software to investigate two 
 
 J. Libby-Roberts, ... Dushyantha Kumar, N., et al. ''The James Webb Space Telescope Transmission Spectrum of the Low-Density Gas Giant TOI-3757b'' The Astronomical Journal (In Prep)
 
-![Research Image 2](/images/research2.jpg)
-
 ---
 
 ## GEMS Collaboration 
@@ -39,7 +35,7 @@ J. Libby-Roberts, ... Dushyantha Kumar, N., et al. ''The James Webb Space Telesc
 
 I collaborate with the GEMS-JWST team, an international research group studying Giant Exoplanets around M-dwarf Stars using the James Webb Space Telescope. Learn more about  the team at [gemsjwst.github.io](https://gemsjwst.github.io/team.html).
 
-![Research Image 3](/images/research3.jpg)
+![Research Image 3](/images/GEMS\ Logo2.jpg)
 
 ---
 

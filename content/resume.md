@@ -13,5 +13,3 @@ Click the button below to view or download my complete resume.
     </a>
 </div>
 
-
-*Replace the button link above with your actual resume link (Google Drive, Dropbox, or direct PDF link)*
