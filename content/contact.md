@@ -1,6 +1,6 @@
 ---
 title: "Contact Me"
-layout: "contact"
+layout: default
 url: "/contact/"
 summary: "Get in touch"
 ---
