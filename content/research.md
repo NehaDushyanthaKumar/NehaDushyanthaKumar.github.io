@@ -7,7 +7,7 @@ summary: "My research experiences and projects"
 
 ## Brown Dwarf Atmospheres 
 
-**Postgraduate Researcher** | **University of St-Andrews**
+**Postgraduate Researcher** | **University of St-Andrews**<br>
 *Advisor: Dr. Ryan MacDonald*<br>
 *Duration: August 2026 -  Present*
 
@@ -18,7 +18,7 @@ Analysing data from the James Webb Space Telescope (JWST) of the lowest mass bro
 
 ## Sub-Neptune Atmospheres 
 
-**Undergraduate Research Assistant** | **Pennsylvania State University**
+**Undergraduate Research Assistant** | **Pennsylvania State University**<br>
 *Advisor: Dr. Jessica Libby-Roberts*<br>
 *Duration: January 2025 -  Present*
 
@@ -33,7 +33,7 @@ View the Submitted paper (v1): https://arxiv.org/abs/2601.18769
 
 ## Super-Puff Atmopsheres 
 
-**Undergraduate Research Assistant** | **Pennsylvania State University** 
+**Undergraduate Research Assistant** | **Pennsylvania State University**<br> 
 *Advisor: Dr. Jessica Libby-Roberts*<br>
 *Duration: Januray 2024 - January 2025*
 
