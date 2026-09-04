@@ -1,8 +1,8 @@
 ---
 title: "Conferences"
-layout: "experiences"
-url: "/experiences/"
-summary: "My professional and extracurricular experiences"
+layout: "conferences"
+url: "/conferences/"
+summary: "Conferences"
 ---
 
 ## American Astronomical Society (AAS)  
