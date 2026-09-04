@@ -51,7 +51,7 @@ J. Libby-Roberts, ... **Dushyantha Kumar, N.**, et al. ''The James Webb Space Te
 
 I collaborate with the GEMS-JWST team, an international research group studying Giant Exoplanets around M-dwarf Stars using the James Webb Space Telescope. Learn more about  the team at [gemsjwst.github.io](https://gemsjwst.github.io/team.html).
 
-![Research Image 3](/images/GEMS\ Logo2.jpg)
+![Research Image 3](/static/images/GEMS%20Logo2.png)
 
 ---
 
