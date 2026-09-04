@@ -17,19 +17,19 @@ menu:
     - identifier: experiences
       name: Other Experiences
       url: /experiences/
-      weight: 20
+      weight: 15
     - identifier: conferences
       name: Conferences
       url: /conferences/
-      weight: 30
+      weight: 20
     - identifier: resume
       name: Resume
       url: /resume/
-      weight: 40
+      weight: 30
     - identifier: contact
       name: Contact Me
       url: /contact/
-      weight: 50
+      weight: 40
 
 params:
   profileMode:
