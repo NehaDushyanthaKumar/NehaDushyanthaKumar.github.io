@@ -26,7 +26,7 @@ summary: "Conferences"
 
 **Abstract**: The detection and interpretation of methane in exoplanet atmospheres is an important tool for assessing planetary habitability. Recent James Webb Space Telescope (JWST) observations of K2-18b - a super-Earth in its star’s habitable zone - revealed methane features in a hydrogen rich atmosphere, prompting debate over whether the planet is a Mini-Neptune (an exoplanet with a small rocky core and a thick H/He envelope) or a water-dominated Hycean world (with water-rich oceans beneath a thin hydrogen atmosphere). As methane can be produced through atmospheric processes or could serve as a potential biosignature, quantifying the assumptions of our atmospheric models is essential for correctly classifying these two exoplanet populations. I will present the results from my investigation into whether Mini-Neptunes can produce similar methane abundances as Hycean Worlds. By systematically varying key parameters - such as atmospheric chemistry, internal heat, and vertical mixing - I will discuss their influence on methane abundance in our atmospheric models and our future ability to interpret atmospheric spectra of habitable exoplanets.  
 
-![Research Image 3](/images/eres-2025.png)
+![Research Image 3](/images/eres-2025.jpeg)
 
 ---
 
