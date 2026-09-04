@@ -36,7 +36,7 @@ params:
     enabled: true
     title: "Neha Dushyantha Kumar" # optional default will be site title
     subtitle: "About Me"
-    imageUrl: "/profile.jpg" # Place your image in the static folder as profile.jpg
+    imageUrl: "/profile.JPEG" # Place your image in the static folder as profile.jpg
     imageTitle: "<portrait>" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
