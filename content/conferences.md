@@ -5,10 +5,22 @@ url: "/conferences/"
 summary: "Conferences"
 ---
 
+## Scottish Exoplanet and Brown Dwarfs Meeting  
+
+**Talk** | **St. Andrews, UK**  
+*Duration: September 1, 2026*
+
+**Abstract Title**: The Role of Intrinsic Temperature and Vertical Mixing in Characterizing Sub-Neptune Atmospheres.
+
+**Abstract**: Sub-Neptune planets are typically modeled with a dense rocky or metal-rich core beneath a thick hydrogen/helium (H/He) atmosphere; though their bulk densities could also reflect a water-rich interior with a thin H/He atmosphere. The overall composition of K2-18b, inferred from James Webb Space Telescope atmospheric spectra, remains debated in part due to differences in modeling assumptions. While previous studies explored variables such as stellar spectrum, atmospheric metallicity, and carbon-to-oxygen ratio, they often assumed fixed intrinsic temperatures (Tint) and eddy diffusion coefficients (Kzz) - two critical, yet observationally unconstrained, drivers of atmospheric chemistry. To address this, we present a self-consistent grid of models that covers the full plausible range of Tint and Kzz using the open-source PICASO and VULCAN codes to better characterize sub-Neptune atmospheres. Focusing on K2-18b analogs, we demonstrate that modeling Tint and Kzz significantly alters methane (CH4), carbon dioxide (CO2), carbon monoxide (CO) and ammonia (NH3) abundances. These abundances enable our models to accurately reproduce published transmission spectra assuming both sub-Neptune and Hycean-world compositions. Our work highlights that comprehensive parameter space exploration of thermal and mixing parameters is essential for accurate interpretation of sub-Neptune spectra.
+ 
+
+---
+
 ## American Astronomical Society (AAS)  
 
-**Talk** | **Phoenix, AZ**  
-*Duration: Januray 4, 2025 - January 8, 2025*
+**Talk** | **Phoenix, AZ, USA**  
+*Duration: Januray 4, 2026 - January 8, 2026*
 
 **Abstract Title**: The Role of Intrinsic Temperature and Vertical Mixing in Characterizing Sub-Neptune Atmospheres.
 
@@ -19,7 +31,7 @@ summary: "Conferences"
 
 ## Emerging Researchers In Exoplanet Science (ERES) X
 
-**Talk** | **Princeton University, NJ**  
+**Talk** | **Princeton University, NJ, USA**  
 *Duration: June 16, 2025 - June 17, 2025*
 
 **Abstract Title**: Mini-Neptune or Water-World? Investigating methane abundance as a key atmospheric tracer.
@@ -33,7 +45,7 @@ summary: "Conferences"
 ## 2024 Sagan Summer Workshop
 Advances in Direct Imaging: From Young Jupiters to Habitable Earths
 
-**Poster** | **Caltech, CA**  
+**Poster** | **Caltech, CA, USA**  
 *Duration: July 20, 2024 - July 26, 2024*
 
 **Poster Title**: Exploring The Inflated Radius Of The Super Massive Super-Puff TOI-3757b With Atmospheric Models
