@@ -1,8 +1,8 @@
 ---
-title: "Resume"
-layout: "resume"
-url: "/resume/"
-summary: "View my resume"
+title: "CV"
+layout: "CV"
+url: "/CV/"
+summary: "View my CV"
 ---
 
 Click the button below to view or download my complete resume.
