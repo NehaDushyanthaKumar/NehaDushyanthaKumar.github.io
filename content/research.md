@@ -55,4 +55,3 @@ I collaborate with the GEMS-JWST team, an international research group studying 
 
 ---
 
-*Note: Place your research images in `/static/images/` folder (e.g., `/static/images/research1.jpg`)*
