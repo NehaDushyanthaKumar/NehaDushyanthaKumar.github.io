@@ -38,8 +38,8 @@ params:
     subtitle: "Postgraduate Researcher @ University of St. Andrews"
     imageUrl: "profile.jpg" # Place your image in the static folder as profile.jpg
     imageTitle: "<portrait>" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageWidth: 420 # custom size
+    imageHeight: 280 # custom size
 
   socialIcons: # optional
     - name: "github"
