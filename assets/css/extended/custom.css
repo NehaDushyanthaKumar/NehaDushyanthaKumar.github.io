@@ -1,0 +1,2 @@
+/* Profile photo: square-cornered rectangle instead of a circle */
+.profile img { border-radius: 0; max-width: 100%; height: auto; object-fit: cover; }
