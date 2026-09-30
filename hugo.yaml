@@ -22,9 +22,9 @@ menu:
       name: Conferences
       url: /conferences/
       weight: 20
-    - identifier: resume
-      name: Resume
-      url: /resume/
+    - identifier: CV
+      name: CV
+      url: /CV/
       weight: 30
     - identifier: contact
       name: Contact Me
